@@ -6,29 +6,29 @@ These stocks are selected because they combine strong revenue growth and healthy
 
 Stock Selection Criteria (Rule-of-40 Model)
 1. Index Universe
-  Member of the S&P 500
-  U.S. large-cap, liquid equities
+  > Member of the S&P 500
+  > U.S. large-cap, liquid equities
 
 2. Market Capitalization
-  ≥ $2 billion (mid-cap and large-cap only)
+ > ≥ $2 billion (mid-cap and large-cap only)
 
 3. Sector Filters
-  Excluded: Energy, Financial Services, Utilities, Real Estate
-  Included: Technology, Communication Services, Healthcare, select Industrials/Consumer
+  > Excluded: Energy, Financial Services, Utilities, Real Estate
+  > Included: Technology, Communication Services, Healthcare, select Industrials/Consumer
 
 4. Rule of 40 Threshold
-  Rule-of-40 ≥ 40%
-  Rule-of-40 = Revenue Growth (YoY) + Free-Cash-Flow Margin
+  > Rule-of-40 ≥ 40%
+  > Rule-of-40 = Revenue Growth (YoY) + Free-Cash-Flow Margin
 
 5. Cash-Flow Quality Controls
-  Free cash flow calculated using OCF – |CapEx|
-  Extreme cash-flow anomalies filtered or penalized
+  > Free cash flow calculated using OCF – |CapEx|
+  > Extreme cash-flow anomalies filtered or penalized
 
 6. Data Confidence Adjustment
-  Quarterly TTM data preferred
-  Annual-proxy data allowed but penalized via adjusted score
+  > Quarterly TTM data preferred
+  > Annual-proxy data allowed but penalized via adjusted score
 
 7. Technical Context (Supplemental)
-  RSI included for momentum context (not a selection gate)
+  > RSI included for momentum context (not a selection gate)
 
 Result: A focused list of growth-oriented companies with scalable business models, strong cash generation, and institutional-grade liquidity.
